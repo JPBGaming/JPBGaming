@@ -2,7 +2,7 @@
 
 Meu nome é João Pedro Barbosa
 
-- Estou estudando Alura!
+- Estou estudando [Alura](https://cursos.alura.com.br/dashboard)!
 - Estou me Desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a minha organização e compartilhamento de meus projetos desenvolvidos
 
